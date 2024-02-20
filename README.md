@@ -1,2 +1,3 @@
-# hashmap-implementation
-
+### About
+This is some golang hashmap internals implementation in educational purposes. How hashmap works internally...
+### Future plans
